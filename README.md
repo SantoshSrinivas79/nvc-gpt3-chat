@@ -3,4 +3,4 @@ This is the code I used to create a small private SMS text chat system that empl
 
 For an AWESOME introduction to nonviolent communication, see https://github.com/cognitivetech/Marshall-Rosenberg-NVC
 
-If you find this code useful, why not buy me a chai at the associated link.
+If you find this code useful, why not buy me a chai at https://ko-fi.com/renay.
