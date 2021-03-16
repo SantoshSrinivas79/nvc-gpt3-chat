@@ -20,7 +20,7 @@ def ask(question, chat_log=None):
  max_tokens=150,
  top_p=1,
  frequency_penalty=0.1,
- presence_penalty=0.5,
+ presence_penalty=0.9,
  stop=["\n"],
  )
  story = response['choices'][0]['text']
