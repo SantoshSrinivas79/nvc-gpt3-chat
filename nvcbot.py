@@ -20,7 +20,7 @@ def ask(question, chat_log=None):
  max_tokens=100,
  top_p=1,
  frequency_penalty=0.1,
- presence_penalty=0.0,
+ presence_penalty=0.5,
  best_of=3,
  stop=["\n\n","Human:"],
  )
