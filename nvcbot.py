@@ -19,8 +19,8 @@ def ask(question, chat_log=None):
  temperature=0.9,
  max_tokens=100,
  top_p=1,
- frequency_penalty=0.1,
- presence_penalty=0.7,
+ frequency_penalty=0.5,
+ presence_penalty=0.9,
  best_of=3,
  stop=["\n\n","Human:"],
  )
