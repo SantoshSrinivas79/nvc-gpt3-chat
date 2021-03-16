@@ -16,11 +16,11 @@ def ask(question, chat_log=None):
  response = openai.Completion.create(
  engine="curie-instruct-beta",
  prompt=prompt_text,
- temperature=1,
+ temperature=0.9,
  max_tokens=150,
  top_p=1,
  frequency_penalty=0.1,
- presence_penalty=0.0,
+ presence_penalty=0.5,
  stop=["\n"],
  )
  story = response['choices'][0]['text']
