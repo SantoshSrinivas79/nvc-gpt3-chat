@@ -1,5 +1,5 @@
 # GPT3-based conflict resolution chat bot
-This is the code I used to create a small private SMS text chat system that employs GP3 from OpenAI and  "nonviolent communication", an algorithmically based method of conflict resolution. Hopefully the chat helps users process conflict, inner and outer. 
+This is the code I used to create a small private SMS text chat system that employs GP3 from OpenAI and  "nonviolent" or compassionate communication, an algorithmically based method of conflict resolution. Hopefully the chat helps users process conflict, inner and outer. 
 
 For an AWESOME introduction to nonviolent communication, see https://github.com/cognitivetech/Marshall-Rosenberg-NVC
 
